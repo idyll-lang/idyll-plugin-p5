@@ -1,0 +1,15 @@
+{
+  "name": "idyll-plugin-p5",
+  "version": "1.0.0",
+  "description": "Inline p5js execution for Idyll documents",
+  "main": "index.js",
+  "repository": "https://github.com/RakeshUP/idyll-plugin-p5.git",
+  "author": "rakeshup <parthiban.rakesh95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "idyll-ast": "^2.0.9"
+  }
+}

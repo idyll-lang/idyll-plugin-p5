@@ -39,4 +39,5 @@ function draw() {
 ````
 
 This is how the output would look:
+
 ![P5JS demo](./docs/images/P5_demo.gif)

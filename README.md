@@ -20,6 +20,8 @@ Add it to your idyll configuration in package.json:
 
 ## Example
 
+Variables declared in idyll file can be accessed from p5 scripts using _variableName_ syntax. P5JS methods can be accessed using the variable 'p'
+
 ````javascript
 [var name:"myVar" value:10 /]
 [var name:"myVar2" value:60 /]
